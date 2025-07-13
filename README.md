@@ -2,7 +2,7 @@
 
 ## Vedaz Software Development Internship Assignment
 
-**Applicant:** [Your Name Here]
+**Applicant:** John
 **Position:** React Native App Development Intern
 **Assignment Deadline:** 14th July, 2025
 
