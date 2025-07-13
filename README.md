@@ -101,4 +101,4 @@ A demonstration video of the app in action will be uploaded here:
 ---
 
 ## 📬 Contact
-For any questions or further information, please contact me at [your.email@example.com]. 
+For any questions or further information, please contact me at [johnkhore26@gmail.com]. 
