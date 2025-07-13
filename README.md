@@ -39,7 +39,7 @@ This repository contains a React Native mobile application developed as part of 
 
 | Chats Screen           | Message Screen         |
 |-----------------------|-----------------------|
-| ![Chats](./chats.png) | ![Message](./message.png) |
+| ![Chats](./assets/chats.png) | ![Message](./assets/messages.png) |
 
 ---
 
