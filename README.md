@@ -85,8 +85,8 @@ A demonstration video of the app in action will be uploaded here:
 
 1. Clone the repository:
    ```bash
-   git clone [REPO_URL]
-   cd [REPO_NAME]
+   git clone https://github.com/johnkhore5911/whatsapp-notifications.git
+   cd whatsapp-notifications
    ```
 2. Install dependencies:
    ```bash
